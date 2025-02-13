@@ -34,7 +34,6 @@ Additionally:
 | 7     | "7"       |
 
 ## Validate Output
-Use the answer.json file to validate your answer.
 
 
 ## Push your changes
